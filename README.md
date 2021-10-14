@@ -1,2 +1,2 @@
-# privilege-rules-based-Vulnerabilities-scan-tool
-this is a privilege rules-based Vulnerabilities scan tool 
+# A privilege rules-based Vulnerabilities scan tool for Android Apps
+this is A privilege rules-based Vulnerabilities scan tool for Android Apps
